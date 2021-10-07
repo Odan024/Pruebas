@@ -1,4 +1,4 @@
 # Pruebas
 pruebas
 
-Autor: Odan
+Desarrollador dev2
